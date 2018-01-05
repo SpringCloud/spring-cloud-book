@@ -8,8 +8,8 @@
 *  Spring Cloud Eureka  上册
 *  Spring Cloud Etcd    下册
 ### 网关
-*  Spring Cloud Gateway
-*  Spring Cloud Zuul
+*  Spring Cloud Gateway 下册
+*  Spring Cloud Zuul    上册
 
 ### 配置中心
 *  Spring Cloud Config  上册
