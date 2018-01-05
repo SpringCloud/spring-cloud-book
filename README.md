@@ -3,17 +3,28 @@
    从中间件角度剖析
 
 ## 大纲
+### 注册中心
 *  Spring Cloud Consul
-*  Spring Cloud Gateway
-*  Spring Cloud Fegin
-*  Spring Cloud K8S
+*  Spring Cloud Eureka
 *  Spring Cloud Etcd
+### 网关
+*  Spring Cloud Gateway
+*  Spring Cloud Zuul
+### 必须组件
+*  Spring Cloud Fegin
+*  Spring Cloud Hystrix
+
+### 扩展组件
+*  Spring Cloud K8S
 *  Spring Cloud GRPC
+
+### 中间件结合组件
 *  Spring Cloud Codegen
 *  Spring Cloud admin
 *  Spring Cloud与skywalking
 *  Spring Cloud DTS
-*  Spring Cloud Hystrix
+
+
  
  
  
